@@ -5,8 +5,8 @@
   --button-border: #1f2e49;      /* Complementary to primary */
   --link-focus: #1c3044;         /* Slightly lighter focus color */
   --form-shadow: rgba(39, 54, 80, 0.6); /* Updated shadow based on new primary */
-  --pagination-bg: #e2d6ed;
-  --link-hover-bg: #7f4daa;
+  --pagination-bg: #a7dbe5;
+  --link-hover-bg: #2c8494;
   --navbar-focus: #e0c2;
 }
 
