@@ -28,19 +28,6 @@
                 href="https://test.dtidrone.com/en/authors/"
                 />
   </url><url>
-    <loc>https://test.dtidrone.com/en/blog/</loc>
-    <lastmod>2022-09-24T13:50:46+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://test.dtidrone.com/ar/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://test.dtidrone.com/en/blog/"
-                />
-  </url><url>
     <loc>https://test.dtidrone.com/en/categories/</loc>
     <lastmod>2022-09-24T13:50:46+02:00</lastmod>
     <xhtml:link
@@ -143,6 +130,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://test.dtidrone.com/en/engineering_services/manufacuring/"
+                />
+  </url><url>
+    <loc>https://test.dtidrone.com/en/blog/</loc>
+    <lastmod>2022-09-24T13:50:46+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://test.dtidrone.com/ar/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://test.dtidrone.com/en/blog/"
                 />
   </url><url>
     <loc>https://test.dtidrone.com/en/engineering_services/research/</loc>
