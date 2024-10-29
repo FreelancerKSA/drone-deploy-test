@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming on شركة درون تك</title>
+    <link>https://test.dtidrone.com/ar/tags/programming/</link>
+    <description>Recent content in Programming on شركة درون تك</description>
+    <generator>Hugo</generator>
+    <language>ar</language>
+    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate>
+    <atom:link href="https://test.dtidrone.com/ar/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>خدمات هندسة التصميم</title>
+      <link>https://test.dtidrone.com/ar/engineering_services/design/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      <guid>https://test.dtidrone.com/ar/engineering_services/design/</guid>
+      <description>نقدم حلول تصميم مبتكرة مصممة لتلبية متطلبات الطيران والطائرات بدون طيار (UAV) المحددة، مما يضمن الأداء الأمثل والامتثال للمعايير الصناعية.</description>
+    </item>
+    <item>
+      <title>كارجو لايت</title>
+      <link>https://test.dtidrone.com/ar/blog/2021/08/01/cargo-lite/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      <guid>https://test.dtidrone.com/ar/blog/2021/08/01/cargo-lite/</guid>
+      <description>CARGO LITE تمثل تقدمًا كبيرًا في تكنولوجيا الطائرات بدون طيار، مصممة خصيصًا لتلبية احتياجات العمليات</description>
+    </item>
+    <item>
+      <title>أجهزة ومعدات النفق</title>
+      <link>https://test.dtidrone.com/ar/blog/2015/10/02/instrument/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      <guid>https://test.dtidrone.com/ar/blog/2015/10/02/instrument/</guid>
+      <description>تعتبر الطائرات بدون طيار المزودة بأدوات وآلات متخصصة ثورة في طريقة إجراء فحوصات الأنفاق ومراقبتها</description>
+    </item>
+  </channel>
+</rss>

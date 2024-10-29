@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>منتجاتنا on شركة درون تك</title>
+    <link>https://test.dtidrone.com/ar/blog/</link>
+    <description>Recent content in منتجاتنا on شركة درون تك</description>
+    <generator>Hugo</generator>
+    <language>ar</language>
+    <lastBuildDate>Sat, 24 Sep 2022 13:50:46 +0200</lastBuildDate>
+    <atom:link href="https://test.dtidrone.com/ar/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> ST-10V</title>
+      <link>https://test.dtidrone.com/ar/blog/2022/09/24/st-10v/</link>
+      <pubDate>Sat, 24 Sep 2022 13:50:46 +0200</pubDate>
+      <guid>https://test.dtidrone.com/ar/blog/2022/09/24/st-10v/</guid>
+      <description>(UAV) ذات جناح ثابت وإقلاع وهبوط عمودي (VTOL) تجمع بين أفضل ما في النوعين من الطائرات المسيرة:</description>
+    </item>
+    <item>
+      <title>كارجو لايت</title>
+      <link>https://test.dtidrone.com/ar/blog/2021/08/01/cargo-lite/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      <guid>https://test.dtidrone.com/ar/blog/2021/08/01/cargo-lite/</guid>
+      <description>CARGO LITE تمثل تقدمًا كبيرًا في تكنولوجيا الطائرات بدون طيار، مصممة خصيصًا لتلبية احتياجات العمليات</description>
+    </item>
+    <item>
+      <title>أجهزة ومعدات النفق</title>
+      <link>https://test.dtidrone.com/ar/blog/2015/10/02/instrument/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      <guid>https://test.dtidrone.com/ar/blog/2015/10/02/instrument/</guid>
+      <description>تعتبر الطائرات بدون طيار المزودة بأدوات وآلات متخصصة ثورة في طريقة إجراء فحوصات الأنفاق ومراقبتها</description>
+    </item>
+    <item>
+      <title>تكنولوجيا الطائرات بدون طيار</title>
+      <link>https://test.dtidrone.com/ar/blog/2015/08/03/uas/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      <guid>https://test.dtidrone.com/ar/blog/2015/08/03/uas/</guid>
+      <description>(UAV) ذات جناح ثابت وإقلاع وهبوط عمودي (VTOL) تجمع بين أفضل ما في النوعين من الطائرات المسيرة:</description>
+    </item>
+    <item>
+      <title>أنفاق الرياح</title>
+      <link>https://test.dtidrone.com/ar/blog/1/01/01/wind-tunnels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://test.dtidrone.com/ar/blog/1/01/01/wind-tunnels/</guid>
+      <description>طائرة مسيرة (UAV) ذات جناح ثابت وإقلاع وهبوط عمودي (VTOL) تجمع بين أفضل ما في النوعين من الطائرات :</description>
+    </item>
+  </channel>
+</rss>
