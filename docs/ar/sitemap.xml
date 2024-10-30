@@ -28,6 +28,19 @@
                 href="https://test.dtidrone.com/ar/categories/"
                 />
   </url><url>
+    <loc>https://test.dtidrone.com/ar/tags/engineering_services/</loc>
+    <lastmod>2024-10-28T20:50:46+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://test.dtidrone.com/en/tags/engineering_services/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://test.dtidrone.com/ar/tags/engineering_services/"
+                />
+  </url><url>
     <loc>https://test.dtidrone.com/ar/engineering_services/</loc>
     <lastmod>2024-10-28T20:50:46+02:00</lastmod>
     <xhtml:link
@@ -39,6 +52,19 @@
                 rel="alternate"
                 hreflang="ar"
                 href="https://test.dtidrone.com/ar/engineering_services/"
+                />
+  </url><url>
+    <loc>https://test.dtidrone.com/ar/categories/engineering_services/</loc>
+    <lastmod>2024-10-28T20:50:46+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://test.dtidrone.com/en/categories/engineering_services/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://test.dtidrone.com/ar/categories/engineering_services/"
                 />
   </url><url>
     <loc>https://test.dtidrone.com/ar/authors/jane-doe1/</loc>
@@ -54,19 +80,6 @@
                 href="https://test.dtidrone.com/ar/authors/jane-doe1/"
                 />
   </url><url>
-    <loc>https://test.dtidrone.com/ar/categories/starting1/</loc>
-    <lastmod>2024-10-28T20:50:46+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://test.dtidrone.com/en/categories/starting1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://test.dtidrone.com/ar/categories/starting1/"
-                />
-  </url><url>
     <loc>https://test.dtidrone.com/ar/tags/</loc>
     <lastmod>2024-10-28T20:50:46+02:00</lastmod>
     <xhtml:link
@@ -78,19 +91,6 @@
                 rel="alternate"
                 hreflang="ar"
                 href="https://test.dtidrone.com/ar/tags/"
-                />
-  </url><url>
-    <loc>https://test.dtidrone.com/ar/tags/theme/</loc>
-    <lastmod>2024-10-28T20:50:46+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://test.dtidrone.com/en/tags/theme/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://test.dtidrone.com/ar/tags/theme/"
                 />
   </url><url>
     <loc>https://test.dtidrone.com/ar/engineering_services/research/</loc>
@@ -186,28 +186,31 @@
   </url><url>
     <loc>https://test.dtidrone.com/ar/authors/jane-doe/</loc>
     <lastmod>2022-09-24T13:50:46+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://test.dtidrone.com/en/authors/jane-doe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://test.dtidrone.com/ar/authors/jane-doe/"
-                />
   </url><url>
-    <loc>https://test.dtidrone.com/ar/categories/starting/</loc>
+    <loc>https://test.dtidrone.com/ar/tags/products/</loc>
     <lastmod>2022-09-24T13:50:46+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://test.dtidrone.com/en/categories/starting/"
+                href="https://test.dtidrone.com/en/tags/products/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://test.dtidrone.com/ar/categories/starting/"
+                href="https://test.dtidrone.com/ar/tags/products/"
+                />
+  </url><url>
+    <loc>https://test.dtidrone.com/ar/categories/products/</loc>
+    <lastmod>2022-09-24T13:50:46+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://test.dtidrone.com/en/categories/products/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://test.dtidrone.com/ar/categories/products/"
                 />
   </url><url>
     <loc>https://test.dtidrone.com/ar/engineering_services/training/</loc>
@@ -236,44 +239,8 @@
                 href="https://test.dtidrone.com/ar/blog/"
                 />
   </url><url>
-    <loc>https://test.dtidrone.com/ar/tags/golang/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://test.dtidrone.com/en/tags/golang/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://test.dtidrone.com/ar/tags/golang/"
-                />
-  </url><url>
-    <loc>https://test.dtidrone.com/ar/tags/hugo/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://test.dtidrone.com/en/tags/hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://test.dtidrone.com/ar/tags/hugo/"
-                />
-  </url><url>
     <loc>https://test.dtidrone.com/ar/authors/john-doe/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://test.dtidrone.com/en/authors/john-doe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://test.dtidrone.com/ar/authors/john-doe/"
-                />
   </url><url>
     <loc>https://test.dtidrone.com/ar/authors/john-doe1/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
@@ -286,97 +253,6 @@
                 rel="alternate"
                 hreflang="ar"
                 href="https://test.dtidrone.com/ar/authors/john-doe1/"
-                />
-  </url><url>
-    <loc>https://test.dtidrone.com/ar/categories/lorem/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://test.dtidrone.com/en/categories/lorem/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://test.dtidrone.com/ar/categories/lorem/"
-                />
-  </url><url>
-    <loc>https://test.dtidrone.com/ar/categories/lorem1/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://test.dtidrone.com/en/categories/lorem1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://test.dtidrone.com/ar/categories/lorem1/"
-                />
-  </url><url>
-    <loc>https://test.dtidrone.com/ar/tags/programming/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://test.dtidrone.com/en/tags/programming/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://test.dtidrone.com/ar/tags/programming/"
-                />
-  </url><url>
-    <loc>https://test.dtidrone.com/ar/categories/programming/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://test.dtidrone.com/en/categories/programming/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://test.dtidrone.com/ar/categories/programming/"
-                />
-  </url><url>
-    <loc>https://test.dtidrone.com/ar/categories/programming1/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://test.dtidrone.com/en/categories/programming1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://test.dtidrone.com/ar/categories/programming1/"
-                />
-  </url><url>
-    <loc>https://test.dtidrone.com/ar/categories/pseudo/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://test.dtidrone.com/en/categories/pseudo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://test.dtidrone.com/ar/categories/pseudo/"
-                />
-  </url><url>
-    <loc>https://test.dtidrone.com/ar/categories/pseudo1/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://test.dtidrone.com/en/categories/pseudo1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://test.dtidrone.com/ar/categories/pseudo1/"
                 />
   </url><url>
     <loc>https://test.dtidrone.com/ar/engineering_services/design/</loc>
@@ -418,17 +294,17 @@
                 href="https://test.dtidrone.com/ar/blog/2015/10/02/instrument/"
                 />
   </url><url>
-    <loc>https://test.dtidrone.com/ar/blog/2015/08/03/uas/</loc>
+    <loc>https://test.dtidrone.com/ar/blog/2015/08/03/target/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://test.dtidrone.com/en/blog/2015/08/03/uas/"
+                href="https://test.dtidrone.com/en/blog/2015/08/03/target/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://test.dtidrone.com/ar/blog/2015/08/03/uas/"
+                href="https://test.dtidrone.com/ar/blog/2015/08/03/target/"
                 />
   </url><url>
     <loc>https://test.dtidrone.com/ar/contact/</loc>
@@ -441,18 +317,6 @@
                 rel="alternate"
                 hreflang="ar"
                 href="https://test.dtidrone.com/ar/contact/"
-                />
-  </url><url>
-    <loc>https://test.dtidrone.com/ar/tags/ipsum/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://test.dtidrone.com/en/tags/ipsum/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://test.dtidrone.com/ar/tags/ipsum/"
                 />
   </url><url>
     <loc>https://test.dtidrone.com/ar/blog/1/01/01/wind-tunnels/</loc>

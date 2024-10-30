@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Drone Tech Website</title>
+    <title>Drone Tech LTD</title>
     <link>https://test.dtidrone.com/en/</link>
-    <description>Recent content on Drone Tech Website</description>
+    <description>Recent content on Drone Tech LTD</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 28 Oct 2024 20:50:46 +0200</lastBuildDate>
@@ -27,7 +27,7 @@
       <link>https://test.dtidrone.com/en/engineering_services/testing/</link>
       <pubDate>Mon, 28 Oct 2024 13:50:46 +0200</pubDate>
       <guid>https://test.dtidrone.com/en/engineering_services/testing/</guid>
-      <description>We provide testing and validation services for drones to ensure optimal performance and reliability. These services include a comprehensive range of tests that cover initial inspections, flight testing, and system validation,&amp;hellip;</description>
+      <description>We provide testing and validation services for drones to ensure optimal performance and reliability. These services include a comprehensive range of tests that cover &amp;hellip;</description>
     </item>
     <item>
       <title>Maintenance and Support Services</title>
@@ -62,7 +62,7 @@
       <link>https://test.dtidrone.com/en/blog/2021/08/01/cargo-lite/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
       <guid>https://test.dtidrone.com/en/blog/2021/08/01/cargo-lite/</guid>
-      <description>CARGO LITE represents a significant advancement in drone technology, designed specifically to meet diverse</description>
+      <description>CARGO LITE represents a significant advancement in drone technology, designed specifically to meet diverse operational needs across various industries. As a  &amp;hellip;</description>
     </item>
     <item>
       <title>Design Engineering Services</title>
@@ -79,11 +79,11 @@
       <description>Drones equipped with specialized instrumentation and equipment have revolutionized the way tunnel</description>
     </item>
     <item>
-      <title>UAS Technologies</title>
-      <link>https://test.dtidrone.com/en/blog/2015/08/03/uas/</link>
+      <title>Target drone (Hadaf-1)</title>
+      <link>https://test.dtidrone.com/en/blog/2015/08/03/target/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
-      <guid>https://test.dtidrone.com/en/blog/2015/08/03/uas/</guid>
-      <description>UAS Fixed-Wing Unmanned Aerial Vehicle (UAV) combines the best of both worlds from two drone types: vertical takeoff and landing (VTOL) and fixed-wing aircraft.</description>
+      <guid>https://test.dtidrone.com/en/blog/2015/08/03/target/</guid>
+      <description>The Hadf-1 Target Drone is a multi-functional, high-performance drone tailored for aerial target practice and a range of training exercises. Built for durability, it ..</description>
     </item>
     <item>
       <title>About Us</title>
@@ -97,7 +97,7 @@
       <link>https://test.dtidrone.com/en/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://test.dtidrone.com/en/contact/</guid>
-      <description>&lt;h1 id=&#34;we-are-here-to-help-you&#34;&gt;We are here to help you&lt;/h1&gt;&#xA;&lt;p&gt;Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.&lt;/p&gt;&#xA;&lt;p&gt;Please feel free to contact us, our customer service center is working for you 24/7.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;get-in-touch&#34;&gt;GET IN TOUCH&lt;/h1&gt;&#xA;&lt;p&gt;At Drone Tech Company, we’re passionate about innovation and delivering top-tier UAV solutions. Whether you need advanced drones, expert engineering, or customized services, we’re here to exceed your expectations. Let’s take your capabilities to new heights! Reach out today—we’re excited to work with you!&lt;/p&gt;&#xA;&lt;h3 id=&#34;contact-us-&#34;&gt;Contact us :&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;+966-538131599&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.dtidrone.com&#34;&gt;www.dtidrone.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;mailto:info@dtidrone.com&#34;&gt;info@dtidrone.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Drone Services</title>
@@ -111,7 +111,7 @@
       <link>https://test.dtidrone.com/en/blog/1/01/01/wind-tunnels/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://test.dtidrone.com/en/blog/1/01/01/wind-tunnels/</guid>
-      <description>A VTOL Fixed-Wing Unmanned Aerial Vehicle (UAV) combines the best of both worlds from two drone types: vertical takeoff and landing (VTOL)</description>
+      <description>The Advanced Low Speed Wind Tunnel is a state-of-the-art, closed-circuit wind tunnel featuring a rectangular test section.</description>
     </item>
   </channel>
 </rss>

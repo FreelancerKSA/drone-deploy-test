@@ -44,6 +44,20 @@ html[dir="rtl"] {
   text-align: justify; /* Aligns text to the right */
 }
 
+
+.text-rtl-nojustify {
+  direction: rtl; /* Makes the text flow right-to-left */
+  text-align: right; /* Aligns text to the right */
+  font-size: 20px;
+}
+
+.text-ltr-nojustify {
+  direction: ltr; /* Makes the text flow right-to-left */
+  text-align: left; /* Aligns text to the right */
+  font-size: 20px;
+}
+
+
 .text-rtl-font {
   direction: rtl; /* Makes the text flow right-to-left */
   text-align: justify; /* Aligns text to the right */
@@ -102,3 +116,6 @@ html[dir="rtl"] {
   box-shadow: -10px 10px 20px rgba(0, 0, 0, 0.5); 
   
 }
+
+
+
