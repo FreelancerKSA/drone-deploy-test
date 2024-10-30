@@ -319,16 +319,16 @@
                 href="https://test.dtidrone.com/ar/contact/"
                 />
   </url><url>
-    <loc>https://test.dtidrone.com/ar/blog/1/01/01/wind-tunnels/</loc>
+    <loc>https://test.dtidrone.com/ar/engineering_services/wind-tunnels/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://test.dtidrone.com/en/blog/1/01/01/wind-tunnels/"
+                href="https://test.dtidrone.com/en/engineering_services/wind-tunnels/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://test.dtidrone.com/ar/blog/1/01/01/wind-tunnels/"
+                href="https://test.dtidrone.com/ar/engineering_services/wind-tunnels/"
                 />
   </url><url>
     <loc>https://test.dtidrone.com/ar/drone_services/</loc>

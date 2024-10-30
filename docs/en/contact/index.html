@@ -37,7 +37,7 @@
 
 
 
-<link href="/css/custom.css?1730286880" rel="stylesheet">
+<link href="/css/custom.css?1730319128" rel="stylesheet">
 
 
 
@@ -141,9 +141,9 @@
             <div> 
             <a href="tel:&#43;966538131599" target="_blank" style="opacity: 1;"><i class='fas fa-2x fa-phone'></i></a>
             
-            <a href="http://facebook.com" target="_blank" style="opacity: 1;"><i class='fab fa-2x fa-facebook'></i></a>
+            <a href="http://facebook.com" target="_blank" style="opacity: 1;"><i class='fab fa-2x fa-linkedin'></i></a>
             
-            <a href="http://twitter.com" target="_blank" style="opacity: 1;"><i class='fab fa-2x fa-twitter'></i></a>
+            <a href="https://x.com/DroneTechInter" target="_blank" style="opacity: 1;"><i class='fab fa-2x fa-twitter'></i></a>
             
             <a href="mailto:info@dtidrone.com" target="_blank" style="opacity: 1;"><i class='fas fa-2x fa-envelope'></i></a>
             
@@ -361,35 +361,76 @@
 
                 <div id="contact-message"></div>
 
-                <form  method="post" action="https://formspree.io/sample/of/endpoint">
+                <form id="contactForm">
                     <div class="row   text-ltr ">
-                        <div class="col-sm-6">
-                            <div class="form-group">
-                              <label for="name">Your Name</label>
-                                <input type="text" class="form-control" name="name" id="name" required>
-                            </div>
+                      <div class="col-sm-6">
+                        <div class="form-group">
+                          <label for="name">Your Name</label>
+                          <input
+                            type="text"
+                            class="form-control"
+                            name="entry.1781500597"
+                            id="name"
+                            required
+                          />
                         </div>
-                        <div class="col-sm-6">
-                            <div class="form-group">
-                                <label for="email">Your Email</label>
-                                <input type="email" autocomplete="email" class="form-control" name="email" id="email" required>
-                            </div>
+                      </div>
+                      <div class="col-sm-6">
+                        <div class="form-group">
+                          <label for="email">Your Email</label>
+                          <input
+                            type="email"
+                            autocomplete="email"
+                            class="form-control"
+                            name="entry.1640447617"
+                            id="email"
+                            required
+                          />
                         </div>
-                        <div class="col-sm-12">
-                            <div class="form-group">
-                              <label for="message">Your Message</label>
-                                <textarea id="message" class="form-control" name="message" required></textarea>
-                            </div>
+                      </div>
+                      <div class="col-sm-12">
+                        <div class="form-group">
+                          <label for="message">Your Message</label>
+                          <textarea
+                            id="message"
+                            class="form-control"
+                            name="entry.297979220"
+                            required
+                          ></textarea>
                         </div>
-                        
-
-                        <div class="col-sm-12 text-center">
-                          <button type="submit" class="btn btn-template-main"><i class="far fa-envelope"></i>Send Message</button>
-
-                        </div>
+                      </div>
+          
+                      <div class="col-sm-12 text-center">
+                        <button type="submit" class="btn btn-template-main">
+                          <i class="far fa-envelope"></i>Send Message
+                        </button>
+                      </div>
                     </div>
                     
-                </form>
+                  </form>
+          
+                  <script>
+                    document
+                      .getElementById("contactForm")
+                      .addEventListener("submit", function (e) {
+                        e.preventDefault();
+          
+                        const form = e.target;
+                        const url =
+                          "https://docs.google.com/forms/u/0/d/e/1FAIpQLSfGLj-82MQJchH2ZNiZ6j3zQvJUz9ghfaM9aZL18L8tC6dMYw/formResponse"; 
+          
+                        fetch(url, {
+                          method: "POST",
+                          body: new FormData(form),
+                          mode: "no-cors", 
+                        })
+                          .then(() => {
+                            alert("Message sent!");
+                            form.reset(); 
+                          })
+                          .catch(() => alert("Error sending message."));
+                      });
+                  </script>
 
                 
 
